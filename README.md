@@ -1,3 +1,4 @@
 # CarInsuranceCalculator
+Elements of Programming Class Project (C++) 
 
 Car Insurance Calculator is a C++ program that allows car owners to calculate and estimate their car insurance cost for the year. The calculator should be able to estimate the cost of insurance based on the vehicle's market price, coverage type, engine capacity, No Claim Discount (NCD) and additional coverage for certain car parts or for natural disaster . There are two coverage type which is Comprehensive coverage and Third-party coverage. Comprehensive coverage is available to protect you against vehicle damages not caused by a collision whereas Third-party insurance coverage is a policy that protects against the actions of another party. No Claim Discount (NCD) is the privilege for car owner to claim an amount of discount for sum insured if no claim has been made in one duration of year. The calculator should be able to estimate the cost of insurance based on the criteria given.
